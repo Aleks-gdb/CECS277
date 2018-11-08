@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PartThree
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=b
+comment2.target=void\ run(java.lang.String)
+comment3.params=NumOfTeam\ pos\ b\ c2\ r
+comment3.target=void\ GetAndAdd(int,\ int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=c\ p
+comment4.target=java.lang.Object\ ArrList(java.lang.String,\ int)
+comment5.params=c\ p
+comment5.target=java.lang.Object\ Llist(java.lang.String,\ int)
+numComments=6

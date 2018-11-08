@@ -1,0 +1,100 @@
+Green leaf
+Red leaf
+Yellow leaf
+Brown leaf
+Leaf that’s bigger than your hand
+Leaf with holes made by an insect
+Tree with no leaves
+Tree that’s fallen down
+Tree with a hole in it
+Tree that’s shorter than you
+Tree with blossom
+Evergreen tree
+Deciduous tree
+Tree root
+Tree stump
+Tree sap
+Twig on the ground
+Branch on the ground
+Bark on the ground
+Pine cone
+Pine needles
+Acorn
+Seed
+Berries
+Mushrooms
+Fern
+Weed
+Dandelion
+Clover leaf
+Bale of hay
+Cornfield
+Grass
+Moss
+Algae
+Lily pad
+Reeds
+Thorns
+Ivy
+Bush
+Vine
+Red flower
+Yellow flower
+White flower
+Orange flower
+Pink flower
+Purple flower
+Sunflower
+Person’s footprint
+Animal tracks
+Animal hole
+Spider web
+Spider
+Squirrel
+Ant
+Fly
+Lady bug
+Mosquito
+Dragonfly
+Beetle
+Worm
+Deer
+Moth
+Butterfly
+Bee
+Horse
+Woodlouse
+Caterpillar
+Frog
+Lizard
+Snail
+Rabbit
+Duck
+Geese
+Turtle
+Fish
+Bird in the air
+Bird in a tree
+Bird on the ground
+Feather
+Puddle
+Stream or river
+Lake or pond
+Nature trail
+Shell
+Bird’s nest
+Rock with a hole in it
+Rock that’s larger than your hand
+Red rock
+Multi-colored rock
+Smooth rock
+Round stone
+Sand
+Mud
+Stars
+Moon
+Clouds
+Rain
+Rainbow
+Sunrise
+Sunset

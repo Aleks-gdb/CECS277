@@ -1,0 +1,26 @@
+CECS 277 Project Results
+
+-----------------------------------------------------------------
+Part One:
+
+The results varied every test run, based on several runs:
+->Loading data from the file using a HashMap seems more efficient.
+->Searching for data is more efficient with the use of TreeMap.
+
+------------------------------------------------------------------
+Part Two:
+
+The results varied every test run, based on several runs:
+->Loading data from the file using a HashSet seems more efficient.
+->Searching for data is more efficient with the use of HashSet.
+
+------------------------------------------------------------------
+Part Three:
+
+After several runs: 
+->Loading data and iterating forward and backward with LinkedList 
+  is faster than with ArrayList.
+->Adding data (doesn’t matter what position) is faster in 
+  LinkedList (time varies based on the position) but getting data 
+  (doesn’t matter what position) is faster in ArrayList (time 
+  varies based on the position).
